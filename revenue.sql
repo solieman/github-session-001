@@ -1,0 +1,1 @@
+SELECT DATE(created_at), SUM(amount) FROM jrnl_dtails;
